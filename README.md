@@ -63,3 +63,11 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 * tests
     * e2e
     * unit
+
+## Od autora:
+
+Tworzone treści będą zawierały informację dla czytelnika, jaki
+stopień zaawansowania musi posiadać. Cel jaki sobie postawiłem to
+wypuszczać codziennie przynajmniej jedną publikację,
+zawierającą wyjaśnienie danego zagadnienia / podejścia czy wzorca.
+Wraz z puszczaniem kolejnych commitów będę aktualizował spis treści - aktywne linki.
