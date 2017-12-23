@@ -14,3 +14,52 @@ projektowania / pisania / testowania aplikacji za którą się zabieramy.
 
 Omówię tu wszelakie wzorce, dobre praktyki, od linterów, przez wzorce projektowe,
 strukturalne, po wzorce które opłaca się stosować w aplikacjach enterprise.
+
+Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliotekach / narzędziach / frameworkach.
+
+## Spis treści:
+
+* debug
+* init
+* linters
+* npm
+* patterns
+    * architectural-patterns
+    * basic-patterns
+        * behavioral-patterns
+            * iterator
+            * mediator
+            * observer
+            * strategy
+            * visitor
+        * concurrency-patterns
+            * active-object
+            * reactor
+            * scheduler
+        * creational-patterns
+            * builder
+            * dependency-injection
+            * factory
+            * [singleton](patterns/basic-patterns/creational-patterns/singleton.md)
+        * structural-patterns
+            * adapter
+            * bridge
+            * composite
+            * decorator
+            * facade
+            * module
+            * proxy
+    * other-patterns
+        * GRASP
+        * SOLID
+            * dependency-inversion-principle
+            * interface-segregation-principle
+            * liskov-substitution-principle
+            * open-closed-principle
+            * single-responsibility-principle
+        * DRY
+        * KISS
+        * SoC
+* tests
+    * e2e
+    * unit
