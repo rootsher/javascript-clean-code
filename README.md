@@ -71,3 +71,5 @@ stopień zaawansowania musi posiadać. Cel jaki sobie postawiłem to
 wypuszczać codziennie przynajmniej jedną publikację,
 zawierającą wyjaśnienie danego zagadnienia / podejścia czy wzorca.
 Wraz z puszczaniem kolejnych commitów będę aktualizował spis treści - aktywne linki.
+
+PS. Powyższa struktura będzie stopniowo modyfikowana i rozszerzana.
