@@ -64,6 +64,12 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
     * e2e
     * unit
 
+## Issues:
+
+Jeśli chciałbyś, żeby w repozytorium pojawiło się wytłumaczenie
+interesującego Cię wzorca, a którego nie ma na liście - stwórz issue,
+chętnie poświęcę temu czas.
+
 ## Od autora:
 
 Tworzone treści będą zawierały informację dla czytelnika, jaki
