@@ -66,9 +66,16 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 
 ## Issues:
 
-Jeśli chciałbyś, żeby w repozytorium pojawiło się wytłumaczenie
-interesującego Cię wzorca, a którego nie ma na liście - stwórz issue,
-chętnie poświęcę temu czas.
+Do projektu zachęcam tworzyć issues :)
+
+Jeśli:
+* nie ma na liście wzorca, którego chcesz zrozumieć,
+* któreś z moich tłumaczeń podlega otwartej dyskusji,
+* lub po prostu nie rozumiesz jakiejś treści..
+
+..utwórz proszę issue!
+
+Chciałbym dbać o jakość tworzonych materiałów.
 
 ## Od autora:
 
@@ -78,4 +85,4 @@ wypuszczać codziennie przynajmniej jedną publikację,
 zawierającą wyjaśnienie danego zagadnienia / podejścia czy wzorca.
 Wraz z puszczaniem kolejnych commitów będę aktualizował spis treści - aktywne linki.
 
-PS. Powyższa struktura będzie stopniowo modyfikowana i rozszerzana.
+Powyższa struktura będzie stopniowo modyfikowana i rozszerzana.
