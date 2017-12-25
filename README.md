@@ -50,19 +50,19 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * module
             * proxy
     * other-patterns
-        * GRASP
+        * GRASP - General responsibility assignment software patterns
         * SOLID
-            * dependency-inversion-principle
-            * interface-segregation-principle
-            * liskov-substitution-principle
-            * open-closed-principle
-            * single-responsibility-principle
-        * DRY
-        * KISS
-        * SoC
+            * Single Responsibility Principle (SRP)
+            * Open / Closed Principle (OCP)
+            * Liskov Substitution Principle (LSP)
+            * Interface Segregation Principle (ISP)
+            * Dependency Inversion Principle (DIP)
+        * [DRY - Don't Repeat Yourself](patterns/other-patterns/DRY.md)
+        * KISS - Keep It Simple, Stupid
+        * SoC -  Separation of Concerns
 * tests
-    * e2e
-    * unit
+    * E2E - End-to-End
+    * Unit testing
 
 ## Issues:
 
