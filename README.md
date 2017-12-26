@@ -58,8 +58,8 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * Interface Segregation Principle (ISP)
             * Dependency Inversion Principle (DIP)
         * [DRY - Don't Repeat Yourself](patterns/other-patterns/DRY.md)
-        * KISS - Keep It Simple, Stupid
-        * SoC -  Separation of Concerns
+        * [KISS - Keep It Simple, Stupid](patterns/other-patterns/KISS.md)
+        * SoC - Separation of Concerns
 * tests
     * E2E - End-to-End
     * Unit testing
