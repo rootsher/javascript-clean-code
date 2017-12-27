@@ -24,24 +24,24 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 * linters
 * npm
 * patterns
-    * architectural-patterns
-    * basic-patterns
-        * behavioral-patterns
+    * Architectural patterns
+    * Basic patterns
+        * Behavioral patterns
             * iterator
             * mediator
             * observer
             * strategy
             * visitor
-        * concurrency-patterns
+        * Concurrency patterns
             * active-object
             * reactor
             * scheduler
-        * creational-patterns
+        * Creational patterns
             * builder
-            * dependency-injection
+            * dependency injection
             * factory
             * [singleton](patterns/basic-patterns/creational-patterns/singleton.md)
-        * structural-patterns
+        * Structural patterns
             * adapter
             * bridge
             * composite
@@ -49,7 +49,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * facade
             * module
             * proxy
-    * other-patterns
+    * Other patterns
         * GRASP - General responsibility assignment software patterns
         * SOLID
             * Single Responsibility Principle (SRP)
