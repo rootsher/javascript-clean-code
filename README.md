@@ -52,7 +52,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
     * Other patterns
         * GRASP - General responsibility assignment software patterns
         * SOLID
-            * Single Responsibility Principle (SRP)
+            * [Single Responsibility Principle (SRP)](patterns/other-patterns/SOLID/single-responsibility-principle.md)
             * Open / Closed Principle (OCP)
             * Liskov Substitution Principle (LSP)
             * Interface Segregation Principle (ISP)
