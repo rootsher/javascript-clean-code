@@ -46,7 +46,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * bridge
             * composite
             * decorator
-            * facade
+            * [facade](patterns/basic-patterns/structural-patterns/facade.md)
             * module
             * proxy
     * Other patterns
