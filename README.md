@@ -30,7 +30,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * iterator
             * mediator
             * observer
-            * strategy
+            * [strategy](patterns/basic-patterns/behavioral-patterns/strategy.md)
             * visitor
         * Concurrency patterns
             * active-object
