@@ -51,6 +51,15 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * proxy
     * Other patterns
         * GRASP - General responsibility assignment software patterns
+            * controller
+            * creator
+            * high cohesion
+            * indirection
+            * information expert
+            * low coupling
+            * polymorphism
+            * protected variations
+            * pure fabrication
         * SOLID
             * [Single Responsibility Principle (SRP)](patterns/other-patterns/SOLID/single-responsibility-principle.md)
             * Open / Closed Principle (OCP)
