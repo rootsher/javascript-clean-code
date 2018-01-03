@@ -1,10 +1,10 @@
 # javascript-clean-code
 
-Brakuje mi miejsca w Internecie, gdzie raz, a porządnie naczytałbym się o tym:
+Brakuje mi miejsca w Internecie, gdzie raz, a porządnie naczytałbym się o poniższym, mianowicie:
 * jakimi zasadami powinienem się kierować pisząc każdą linijkę swojego kodu,
 * jak stworzyć strukturę, która odpowiednio oddzieli mi wszystkie warstwy aplikacji,
 * jak pisać swój kod, żeby inni od razu go zrozumieli,
-* jak korzystać rozsądnie z dobrodziejstw NPMa,
+* jak korzystać rozsądnie z dobrodziejstw package manager'ów,
 * jak pisać kod, na jakie rzeczy warto zwrócić uwagę,
 * jak zlokalizować miejsce gdzie aplikacja zamula i jak sprawić, aby aplikacja działała szybciej,
 * jak testować aplikacje, jakie testy są mi potrzebne i jaką pełnią rolę.
@@ -13,7 +13,7 @@ Tworząc ten projekt chciałbym wyjaśnić możliwie wszystkie aspekty
 projektowania / pisania / testowania aplikacji za którą się zabieramy.
 
 Omówię tu wszelakie wzorce, dobre praktyki, od linterów, przez wzorce projektowe,
-strukturalne, po wzorce które opłaca się stosować w aplikacjach enterprise.
+strukturalne, po wzorce które opłaca się stosować w aplikacjach klasy enterprise.
 
 Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliotekach / narzędziach / frameworkach.
 
@@ -22,7 +22,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 * debug
 * init
 * linters
-* npm
+* package managers
 * patterns
     * Architectural patterns
     * Basic patterns
@@ -71,7 +71,12 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
         * SoC - Separation of Concerns
 * tests
     * E2E - End-to-End
+        * selenium, nightwatch, browserstack
     * Unit testing
+        * mocha, jest
+* React
+    * component communication
+* Angular
 
 ## Issues:
 
@@ -90,8 +95,9 @@ Chciałbym dbać o jakość tworzonych materiałów.
 
 Tworzone treści będą zawierały informację dla czytelnika, jaki
 stopień zaawansowania musi posiadać. Cel jaki sobie postawiłem to
-wypuszczać codziennie przynajmniej jedną publikację,
+wypuszczać raz na kilka dni jedną aktualizację,
 zawierającą wyjaśnienie danego zagadnienia / podejścia czy wzorca.
-Wraz z puszczaniem kolejnych commitów będę aktualizował spis treści - aktywne linki.
+Wraz z puszczaniem kolejnych commitów będę aktualizował spis treści - aktywne
+linki.
 
 Powyższa struktura będzie stopniowo modyfikowana i rozszerzana.
