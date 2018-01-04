@@ -20,9 +20,13 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 ## Spis treści:
 
 * debug
+    * chrome devtools
+    * mobile debugger
 * init
 * linters
+    * eslint, jslint, jshint, jscs
 * package managers
+    * npm, yarn, bower
 * patterns
     * Architectural patterns
     * Basic patterns
@@ -75,8 +79,10 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
     * Unit testing
         * mocha, jest
 * React
+    * component lifecycle methods
     * component communication
 * Angular
+* Vue.js
 
 ## Issues:
 
