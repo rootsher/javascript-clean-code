@@ -44,6 +44,10 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * builder
             * dependency injection
             * factory
+                * simple factory
+                * static factory
+                * method factory
+                * abstract factory
             * [singleton](patterns/basic-patterns/creational-patterns/singleton.md)
         * Structural patterns
             * adapter
@@ -82,6 +86,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
     * component lifecycle methods
     * component communication
 * Angular
+    * Material Design
 * Vue.js
 
 ## Issues:
