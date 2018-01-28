@@ -43,11 +43,11 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
         * Creational patterns
             * builder
             * dependency injection
-            * factory
-                * simple factory
-                * static factory
-                * method factory
-                * abstract factory
+            * [factory](patterns/basic-patterns/creational-patterns/factory.md)
+                * [simple factory](patterns/basic-patterns/creational-patterns/factory.md#simple-factory-prosta-fabryka)
+                * [static factory](patterns/basic-patterns/creational-patterns/factory.md#static-factory-fabryka-statyczna)
+                * [method factory](patterns/basic-patterns/creational-patterns/factory.md#method-factory-metoda-fabrykująca)
+                * [abstract factory](patterns/basic-patterns/creational-patterns/factory.md#abstract-factory-fabryka-abstrakcyjna)
             * [singleton](patterns/basic-patterns/creational-patterns/singleton.md)
         * Structural patterns
             * adapter
