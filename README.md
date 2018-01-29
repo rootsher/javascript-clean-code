@@ -58,6 +58,7 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
             * module
             * proxy
     * Other patterns
+        * composition vs inheritance
         * GRASP - General responsibility assignment software patterns
             * controller
             * creator
