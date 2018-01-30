@@ -86,8 +86,11 @@ Dodatkowo skupię się na omówieniu zastosowanych technik w popularnych bibliot
 * React
     * component lifecycle methods
     * component communication
+    * create-react-app
+    * Material-UI (Material Design)
 * Angular
-    * Material Design
+    * angular-cli
+    * Angular Material (Material Design)
 * Vue.js
 
 ## Issues:
